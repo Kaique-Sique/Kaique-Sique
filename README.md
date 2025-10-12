@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello There! I'm Kaique Siqueira 👋
+- 🔭 I'm currently working on an auto-alignment shooter for an FRC robot
+- 💻 Member of the Brazilian FRC Megazord #7563 team
+- ⚙️ I'm a former OBR RoboCup competitor
 
 <!--
 **Kaique-Sique/Kaique-Sique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
