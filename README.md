@@ -16,6 +16,7 @@
     <img align="center" alt= "Python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt= "CSS" src= "https://img.shields.io/badge/css-14354C?style=for-the-badge&logo=css&logoColor=white"/>
     <img align="center" alt= "HTML" src= "https://img.shields.io/badge/Html-14354C?style=for-the-badge&logo=Html&logoColor=white"/>
+<img align="center" alt= "HTML" src= "https://img.shields.io/badge/C++-14354C?style=for-the-badge&logo=C++&logoColor=white"/>
 </div><br/>
 
 <!--
