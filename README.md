@@ -3,12 +3,7 @@
 - 💻 Member of the Brazilian FRC Megazord #7563 team
 - ⚙️ I'm a former OBR RoboCup competitor
 - 💼 I'm looking for a job and projects +55 11 996123440
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Sique&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Sique&layout=compact&langs_count=7&theme=radical"/>
-
-
-
+  
 ## 🧑‍💻 Languages and Technologs
 <div style= "display: inline_block" ><br/>
     <img align="center" alt= "Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
