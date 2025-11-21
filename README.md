@@ -1,13 +1,15 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+YOUR_NAME;Welcome+to+my+GitHub+Profile;I+love+building+cool+projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Kaique+Siqueira!!!;Welcome+to+my+GitHub+Profile!!!;I+love+building+cool+projects+%F0%9F%9A%80" />
 </p>
 
 ---
 
 # 👋 About Me
-Hi! I'm **Kaique de Paula Siqueira**, an Full Stack Developer, I'm a member of Megazord #7563 (FRC TEAM) and former competitor of BB-8 OBR 2025.
-
+Hi! I'm **Kaique de Paula Siqueira**, an Full Stack Developer, I'm always looking for learn new things.
+- 💻 Member of the Brazilian FRC Megazord #7563 team
+- ⚙️ I'm a former OBR RoboCup competitor
+- 💼 I'm looking for a job and projects +55 11 996123440
 ---
 
 # 🔧 Technologies & Tools
