@@ -42,9 +42,10 @@ Hi! I'm **Kaique de Paula Siqueira**, an Full Stack Developer, I'm always lookin
 ---
 
 # 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Kaique-Sique/Kaique-Sique/blob/output/github-contribution-grid-snake.gif" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kaique-Sique/Kaique-Sique/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://github.com/Kaique-Sique/Kaique-Sique/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
