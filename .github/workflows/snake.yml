@@ -29,5 +29,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v3
         with:
-          branch: gh-pages  # a branch que será usada
+          branch: main  # a branch que será usada
           folder: dist
