@@ -29,7 +29,7 @@ Hi! I'm **Kaique de Paula Siqueira**, an Full Stack Developer, I'm always lookin
 # 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Sique&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Sique&layout=compact&theme=white" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Sique&layout=compact&theme=tokyonight" />
 </p>
 
 ---
