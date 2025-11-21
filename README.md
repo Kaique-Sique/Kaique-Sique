@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Kaique+Siqueira!!!;Welcome+to+my+GitHub+Profile!!!;I+love+building+cool+projects+%F0%9F%9A%80" />
+  <img src="Welcome.gif" />
 </p>
 
 ---
