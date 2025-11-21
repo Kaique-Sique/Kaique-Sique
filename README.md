@@ -43,8 +43,9 @@ Hi! I'm **Kaique de Paula Siqueira**, an Full Stack Developer, I'm always lookin
 
 # 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kaique-Sique/Kaique-Sique/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://github.com/Kaique-Sique/Kaique-Sique/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kaique-Sique/snk/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kaique-Sique/snk/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://github.com/Kaique-Sique/snk/raw/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
