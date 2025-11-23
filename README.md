@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="Welcome.gif" height="400" width= "500"/>
+  <img src="Welcome (1).gif" height="400" width= "500"/>
 </p>
 
 ---
