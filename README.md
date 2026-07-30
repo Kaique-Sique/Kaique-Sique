@@ -157,7 +157,7 @@ Internal scouting platform developed for **FRC Team 7563**. Built with Next.js a
 
 <td width="35%" align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaique-Sique&repo=Scouter7563&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 </td>
 
@@ -186,11 +186,11 @@ Lightweight Python wrapper for the **The Blue Alliance API v3**, built with a ty
 
 </td>
 
-<td width="35%" valign="top" align="center">
+<td width="35%" align="center">
 
 <img
   height="160em"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Kaique-Sique&repo=BlueAlliancePy&theme=tokyonight&hide_border=true"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 </td>
