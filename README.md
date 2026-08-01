@@ -234,6 +234,13 @@ Lightweight Python wrapper for the **The Blue Alliance API v3**, built with a ty
   />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kaique-Sique/snk/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kaique-Sique/snk/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://github.com/Kaique-Sique/snk/raw/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 
 </div>
