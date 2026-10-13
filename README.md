@@ -24,6 +24,8 @@ I am currently studying a high school program specializing in Electrical and Ele
 
 I am passionate about software development, backend engineering, full-stack technologies, and robotics, as well as creating solutions that integrate hardware and software to solve real-world problems.
 
+<a href="https://kaique-sique.github.io"><img src="https://img.shields.io/badge/kaiquesique.github.io-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
 </td>
 <td width="40%" valign="top" align="center">
 
@@ -245,7 +247,6 @@ Lightweight Python wrapper for the **The Blue Alliance API v3**, built with a ty
 <div align="center">
 
 <a href="mailto:kaiquedpsiqueira@gmail.com"><img src="https://img.shields.io/badge/Email-kaiquedpsiqueira%40gmail.com-2ea043?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://megazord7563.com.br"><img src="https://img.shields.io/badge/Team_site-megazord7563.com.br-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/Kaique-Sique"><img src="https://img.shields.io/badge/GitHub-Kaique--Sique-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
