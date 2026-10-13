@@ -18,17 +18,11 @@
 
 ### 👋 About me
 
-Full stack developer focused on **backend systems, robotics and software architecture**. I build scalable web applications, design data layers and APIs, and develop software for FRC robots. My work combines modern web technologies with real-time robotics systems used during competitions.
+Full-stack developer who builds scalable web applications, designs data layers and APIs, and develops software for FRC robots. My work combines modern web technologies with real-time robotics systems used during competitions.
 
-- 🖥️ Backend-focused full stack developer specializing in API design, database modeling and external API integrations
-- 🤖 Software developer for **FRC Team 7563 — Megazord**, building both robot software and internal team tools
-- 🎓 Electronics Technician student at **SENAI**, currently studying information security with a focus on backend systems
-- 🏆 Former **OBR Rescue** competitor
-- 🔌 Embedded development with **Arduino, ESP32 and Raspberry Pi**
-- 🚀 Creator of **Scouter7563**, a full scouting platform built for FRC competitions
-- 📡 Creator of **MegaTelemetryManager**, a high-performance annotation-based NetworkTables telemetry library
-- 📦 Maintainer of **BlueAlliancePy**, a Python wrapper for The Blue Alliance API
-- 💼 Open to internships, full-time opportunities and freelance projects
+I am currently studying a high school program specializing in Electrical and Electronics Engineering at SENAI-SP and am a member of the FRC Megazord 7563 team, contributing to software development for competition robots. Through robotics competitions, I have gained experience developing solutions for high-performance systems and had the opportunity to compete at the FIRST Championship in Houston.
+
+I am passionate about software development, backend engineering, full-stack technologies, and robotics, as well as creating solutions that integrate hardware and software to solve real-world problems.
 
 </td>
 <td width="40%" valign="top" align="center">
