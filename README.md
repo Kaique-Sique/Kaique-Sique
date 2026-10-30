@@ -20,9 +20,9 @@
 
 Full-stack developer who builds scalable web applications, designs data layers and APIs, and develops software for FRC robots. My work combines modern web technologies with real-time robotics systems used during competitions.
 
-I am currently studying a high school program specializing in Electrical and Electronics Engineering at SENAI-SP and am a member of the FRC Megazord 7563 team, contributing to software development for competition robots. Through robotics competitions, I have gained experience developing solutions for high-performance systems and had the opportunity to compete at the FIRST Championship in Houston.
+I am currently studying a high school program specializing in Electrical and Electronics Engineering at SENAI-SP and a member of the FRC Megazord 7563 team, contributing to software development for competition robots. I have gained experience developing solutions for high-performance systems and had the opportunity to compete at the FIRST Championship in Houston.
 
-I am passionate about software development, backend engineering, full-stack technologies, and robotics, as well as creating solutions that integrate hardware and software to solve real-world problems.
+I am passionate about software development, backend engineering, full-stack technologies, and robotics.
 
 <a href="https://kaique-sique.github.io"><img src="https://img.shields.io/badge/kaiquesique.github.io-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
