@@ -5,7 +5,6 @@
 <br />
 
 <img src="https://img.shields.io/badge/status-open_to_work-2ea043?style=for-the-badge" />
-<img src="https://img.shields.io/badge/based_in-Jundiaí,_BR-009c3b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/team-FRC_7563_Megazord-1f6feb?style=for-the-badge" />
 
 </div>
@@ -254,6 +253,6 @@ Lightweight Python wrapper for the **The Blue Alliance API v3**, built with a ty
 <br />
 
 <div align="center">
-<sub>Kaique de Paula Siqueira · Jundiaí, São Paulo · Brazil</sub>
+<sub>Kaique de Paula Siqueira</sub>
 </div>
 
