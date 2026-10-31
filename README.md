@@ -28,7 +28,7 @@ I am passionate about software development, backend engineering, full-stack tech
 </td>
 <td width="40%" valign="top" align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Sique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaique-Sique&theme=tokyonight" />
 
 </td>
 </tr>
